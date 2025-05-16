@@ -34,7 +34,7 @@
     * **Major : Medical IT**
         * Lang & DB: Java, Oracle, MySQL
         * IoT: C, Arduino
-        * Data: RStudio, IBM SPSS
+        * DA: RStudio, IBM SPSS
  
 * **📖 Completed Government Funded Bootcamp (Jul 2024 - Dec 2024)**
 
