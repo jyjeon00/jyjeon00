@@ -23,9 +23,9 @@
 
 
 ## ✨ Profile
-* **💻 Mid-sized company - SW Developer**
+* **💻 Mid-sized company - SW Developer (Mar 2025 – Ing)**
   
-    * **Department (Head Office business Team / Planning & Information Part) (Mar 2025 – Ing)**
+    * **Department (Head Office business Team / Planning & Information Part)**
         * Client & Server-based ERP Maintenance and Development 
         * Technologies Used: PowerBuilder(PowerScript), Microsoft SQL Server(T-SQL)
           
